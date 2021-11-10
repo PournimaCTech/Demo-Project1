@@ -58,3 +58,7 @@ function time(ms) {
 }
 
 kitchen();
+
+console.log("doing the dishes");
+console.log("cleaning the tables");
+console.log("taking orders");
