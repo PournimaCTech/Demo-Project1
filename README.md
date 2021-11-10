@@ -30,3 +30,7 @@ To handle this, we use the .catch handler. Just like .then, it also returns a pr
 A small reminder here:
     - .then works when a promise is resolved
     - .catch works when a promise is rejected
+
+
+<!-- How Does Async / Await Work in JavaScript? -->
+
